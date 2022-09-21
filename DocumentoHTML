@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<title> Html</title>
+ </head>
+<h1>Benvido</h1>
+
+<p>Francisco</p>
+<br></br>
+<h6>"Estou comprobando que este texto é mais pequeno porque é menos importante"</h6>
+
+<a href="https://www.google.es">Google</a>
+
+<br><img src="./imagen/unnamed.png" width="128" height="128"></br>
+<p style="color:blue; font-family:courier; font-size:200%; text-align:center;"> x<sup>2</sup> =x * x</p>
+<h1 style="color:red; font-family:courier; font-size:150%; text-align:center;"> H<sub>2</sub>O é auga</h1>
+<blockquote cite="https://es.wikipedia.org/wiki/Steve_Jobs">Steven Paul Jobs (San Francisco, 24 de febrero de 1955-Palo Alto, 5 de octubre de 2011)fue un empresario, diseñador industrial, magnate empresarial, propietario de medios e inversor estadounidense. Fue cofundador y presidente ejecutivo de Apple12​ y máximo accionista individual de The Walt Disney Company.</blockquote>
+<!--Utilice la etiqueta de blockquote para citar a steve -->
+<abbr title="Protocolo de transferencia de hipertexto"> HTTP </abbr>
+<!-- El Protocolo de transferencia de hipertexto (en inglés, Hypertext Transfer Protocol, abreviado HTTP) es el protocolo de comunicación que permite las transferencias de información a través de archivos (XML, HTML…) en la World Wide Web. -->
+<h1 style="border:2px solid;color: rgb(255, 99, 71)
+;">hola mundo</h1>
+<h1 style="background-color:#ff6347;"> adios mundo</h1>
+
+<a href="https://www.naturesvariety.com/es/perro/consejos/8-trucos-para-aprender-cuidar-perros-en-casa-cuida-tu-perro-como-se-merece">
+<img src="./imagen/107435678_perro1.jpg" alt="Perros" style="width:120px;height:120px;">
+</a>
+<a href="Francisco:someone@example.com">Mi correo</a>
+<a href="https://www.muyinteresante.es/mascotas/fotos/15-consejos-basicos-para-cuidar-gatos-bebes">
+<img src="./imagen/images.jpg" alt="Gatos" style="width:120px;height:120px;">
+</a>
+<a href="Francisco:someone@example.com">Mi correo</a>
+
+</html>
